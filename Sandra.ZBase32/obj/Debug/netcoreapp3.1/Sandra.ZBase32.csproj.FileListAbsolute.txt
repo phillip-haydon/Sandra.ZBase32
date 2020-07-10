@@ -1,0 +1,9 @@
+/home/phillip/GitHub/Sandra.ZBase32/Sandra.ZBase32/bin/Debug/netcoreapp3.1/Sandra.ZBase32.deps.json
+/home/phillip/GitHub/Sandra.ZBase32/Sandra.ZBase32/bin/Debug/netcoreapp3.1/Sandra.ZBase32.dll
+/home/phillip/GitHub/Sandra.ZBase32/Sandra.ZBase32/bin/Debug/netcoreapp3.1/Sandra.ZBase32.pdb
+/home/phillip/GitHub/Sandra.ZBase32/Sandra.ZBase32/obj/Debug/netcoreapp3.1/Sandra.ZBase32.csprojAssemblyReference.cache
+/home/phillip/GitHub/Sandra.ZBase32/Sandra.ZBase32/obj/Debug/netcoreapp3.1/Sandra.ZBase32.AssemblyInfoInputs.cache
+/home/phillip/GitHub/Sandra.ZBase32/Sandra.ZBase32/obj/Debug/netcoreapp3.1/Sandra.ZBase32.AssemblyInfo.cs
+/home/phillip/GitHub/Sandra.ZBase32/Sandra.ZBase32/obj/Debug/netcoreapp3.1/Sandra.ZBase32.csproj.CoreCompileInputs.cache
+/home/phillip/GitHub/Sandra.ZBase32/Sandra.ZBase32/obj/Debug/netcoreapp3.1/Sandra.ZBase32.dll
+/home/phillip/GitHub/Sandra.ZBase32/Sandra.ZBase32/obj/Debug/netcoreapp3.1/Sandra.ZBase32.pdb

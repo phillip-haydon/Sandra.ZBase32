@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandra.ZBase32", "Sandra.ZBase32\Sandra.ZBase32.csproj", "{3CDEBA9B-C5BA-432A-A52D-A26BA0D86125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandra.ZBase32.Tests", "Sandra.ZBase32.Tests\Sandra.ZBase32.Tests.csproj", "{C9A2784A-E033-4FA7-86B1-C032D8BF51E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDEBA9B-C5BA-432A-A52D-A26BA0D86125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDEBA9B-C5BA-432A-A52D-A26BA0D86125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDEBA9B-C5BA-432A-A52D-A26BA0D86125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDEBA9B-C5BA-432A-A52D-A26BA0D86125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A2784A-E033-4FA7-86B1-C032D8BF51E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A2784A-E033-4FA7-86B1-C032D8BF51E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A2784A-E033-4FA7-86B1-C032D8BF51E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A2784A-E033-4FA7-86B1-C032D8BF51E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
